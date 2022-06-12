@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Minesweeper/.idea/Minesweeper.iml" filepath="$PROJECT_DIR$/../Minesweeper/.idea/Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pong.iml" filepath="$PROJECT_DIR$/.idea/Pong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyGame/.idea/PyGame.iml" filepath="$PROJECT_DIR$/../PyGame/.idea/PyGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sudoku/.idea/Sudoku.iml" filepath="$PROJECT_DIR$/../Sudoku/.idea/Sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Testing/.idea/Testing.iml" filepath="$PROJECT_DIR$/../Testing/.idea/Testing.iml" />
+      <module fileurl="file://$USER_HOME$/djangoProject/.idea/djangoProject.iml" filepath="$USER_HOME$/djangoProject/.idea/djangoProject.iml" />
+    </modules>
+  </component>
+</project>
